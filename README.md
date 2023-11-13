@@ -13,13 +13,13 @@
 </div>
 <h2>Sumário</h2>
 <ul>
-  <li><a src="https://github.com/Eduardo-Rocha-Azevedo/Jogo-de-carro-/edit/main/README.md#instala%C3%A7%C3%A3o">Instalação</a></li>
+  <li><a href="#instalacao">Instalação</a></li>
     <ul>  
-      <li>Requisitos minimos</li>
-      <li>Como instalar</li>
+      <li><a href="#re">Requisitos minimos</a></li>
+      <li><a href="">Como instalar</a></li>
     </ul>
-  <li>Uso do programa</li>
-  <li>Créditos</li>
+  <li><a href="">Uso do programa</a></li>
+  <li><a>Créditos</a></li>
 </ul><hr>
 <section id="instalacao">
 <h2>Instalação</h2> 
@@ -27,9 +27,34 @@
 <ul>
   <li>Windowns x32bits</li>
   <li>Windowns x64bits</li>
+  <li>Teclado</li>
 </ul>
 <h3>Como instalar</h3>
 <p>Para instalar clique aqui https://drive.google.com/file/d/1FIeAulTSOjeag3rzgc_vbto0MHrNNDcs/view</p>
 <p>Após baixar basta instalar</p>
-<p>Clique duplo nesse icone<img src=""></p>
+<p>Clique duplo nesse icone</p>
+<img src="https://github.com/Eduardo-Rocha-Azevedo/Jogo-de-carro-/assets/142415927/a126a39b-df3e-4147-992c-55db25c822c4">
+<p>Clique em dar permissão de modificar esse computador</p>
+<p>Siga os passos em ordem </p>
+<ol>
+ <li>Clique em prosseguir<br><img src="https://github.com/Eduardo-Rocha-Azevedo/Jogo-de-carro-/assets/142415927/c0fb0e4c-5899-4a67-b958-493c5b6f7798"></li>
+
+  <li>Clique em prosseguir<br><img src="https://github.com/Eduardo-Rocha-Azevedo/Jogo-de-carro-/assets/142415927/d40cc308-a374-40de-a1dc-d77235a3875d"></li>
+  
+  <li>Aceite os termos e condições<br><img src="https://github.com/Eduardo-Rocha-Azevedo/Jogo-de-carro-/assets/142415927/2a703720-e2ea-4b81-a1af-733e00dbd6e9"></li>
+  <li>Escolha onde será instalado e prosiga<br><img src="https://github.com/Eduardo-Rocha-Azevedo/Jogo-de-carro-/assets/142415927/215eb4e4-a535-4be5-a4bf-06ff82831eb6"></li>
+  <li>Clique em prosseguir<br><img src="https://github.com/Eduardo-Rocha-Azevedo/Jogo-de-carro-/assets/142415927/ec0b230d-3afd-43f4-8003-38c549f8a1f4"></li>
+  <li>Clique em exit <br><img src="https://github.com/Eduardo-Rocha-Azevedo/Jogo-de-carro-/assets/142415927/b980dd20-d79c-471b-9809-58dab81b1897"></li>
+</ol>
+<p>Instalação completa, agora basta clicar no icone de carro e jogar.</p>
+
+</section>
+<section>
+  <h2>Uso do programa</h2>
+  <p>Para usar clique no icone de carro com o nome Car Game, o jogo vai abrir, após isso a tela inicial carregará para 
+    escolher uma opção utilize o teclado para enviar a sua resposta.</p>
+</section>
+<section>
+  <h2>Créditos</h2>
+  <p>Projeto feito por Eduardo Azevedo </p>
 </section>
