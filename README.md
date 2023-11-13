@@ -15,21 +15,21 @@
 <ul>
   <li><a href="#instalacao">Instalação</a></li>
     <ul>  
-      <li><a href="#re">Requisitos minimos</a></li>
-      <li><a href="">Como instalar</a></li>
+      <li><a href="#requisito">Requisitos minimos</a></li>
+      <li><a href="#instalar">Como instalar</a></li>
     </ul>
-  <li><a href="">Uso do programa</a></li>
-  <li><a>Créditos</a></li>
+  <li><a href="#uso">Uso do programa</a></li>
+  <li><a href="#credito">Créditos</a></li>
 </ul><hr>
 <section id="instalacao">
 <h2>Instalação</h2> 
-<h3>Requisitos minimos</h3>
+<h3 id="requisito">Requisitos minimos</h3>
 <ul>
   <li>Windowns x32bits</li>
   <li>Windowns x64bits</li>
   <li>Teclado</li>
 </ul>
-<h3>Como instalar</h3>
+<h3 id="instalar">Como instalar</h3>
 <p>Para instalar clique aqui https://drive.google.com/file/d/1FIeAulTSOjeag3rzgc_vbto0MHrNNDcs/view</p>
 <p>Após baixar basta instalar</p>
 <p>Clique duplo nesse icone</p>
@@ -49,12 +49,12 @@
 <p>Instalação completa, agora basta clicar no icone de carro e jogar.</p>
 
 </section>
-<section>
+<section id="uso">
   <h2>Uso do programa</h2>
   <p>Para usar clique no icone de carro com o nome Car Game, o jogo vai abrir, após isso a tela inicial carregará para 
     escolher uma opção utilize o teclado para enviar a sua resposta.</p>
 </section>
-<section>
+<section id="credito">
   <h2>Créditos</h2>
   <p>Projeto feito por Eduardo Azevedo </p>
 </section>
