@@ -17,5 +17,6 @@
   <li>Créditos</li>
 </ul><hr>
 <section id=instalar>
-  
+  <h2>Instalação</h2>
+  <p>Requisitos para instalar</p>
 </section>
